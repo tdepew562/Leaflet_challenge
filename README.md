@@ -28,9 +28,9 @@
 
 Below are the links to the code files:
 
-- [logic.js](path/to/your/logic.js): JavaScript code for importing and visualizing the earthquake data.
-- [style.css](path/to/your/style.css): CSS file for styling the visualization.
-- [index.html](path/to/your/index.html): HTML file for displaying the map.
+- [JavaScript File](static/js/logic.js): JavaScript code for importing and visualizing the earthquake data.
+- [CSS File](static/css/style.css): CSS file for styling the visualization.
+- [Earthquake Visualization](index.html): HTML file for displaying the map.
 
 ## Results
 Upon running the Earthquake Visualization, users will be presented with an interactive map displaying earthquake locations, magnitudes, and depths. Each earthquake marker on the map provides additional information, such as the date, magnitude, and depth of the earthquake. The legend provides context for interpreting the map data, with marker size indicating magnitude and color representing depth.
