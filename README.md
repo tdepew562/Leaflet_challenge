@@ -1,4 +1,4 @@
-# Leaflet_challenge-
+# Leaflet_challenge
 
 ## Prerequisites
 - Ensure you have a modern web browser installed.
